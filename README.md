@@ -39,9 +39,8 @@ Sorted arrays
 
 Reverse-sorted arrays
 
-
-
 How to Run Part 1 Code
+
 python select_algorithms.py
 
 python empirical_analysis.py
