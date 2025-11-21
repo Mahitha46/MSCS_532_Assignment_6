@@ -3,9 +3,11 @@ Overview
 This assignment is divided into two major parts:
 
 Part 1 – Selection Algorithms:
+
 Implementation and empirical analysis of Deterministic Linear-Time Selection (Median of Medians) and Randomized Quickselect.
 
 Part 2 – Elementary Data Structures:
+
 Manual implementation of arrays, stacks, queues, and linked lists, along with performance discussion.
 
 
